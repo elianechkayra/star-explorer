@@ -52,7 +52,7 @@ local sheetOptions =
 local objectSheet = graphics.newImageSheet( "gameObjects.png", sheetOptions )
 
 -- Initialize variables
-local lives = 3
+local lives = 4
 local score = 0
 local died = false
  
